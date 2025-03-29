@@ -2,6 +2,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18495143&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+
 Changes in code are followed by version control, which lets programmers go back to earlier versions if necessary. A firstrate feature of GitHub is its integration with other development platforms as well as its cloud based storage and collaboration features. By stopping data loss and allowing several developers to work on the same project without overwriting each other's changes, it helps to preserve project integrity.
 
 Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
@@ -42,11 +43,18 @@ This file helps new developers understand the project quickly.
 
 Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 
-Public 			vs. 				Private Repositories
-Feature		Public Repository			Private Repository
-Visibility		Anyone can see and clone		Only authorized users can access
-Collaboration	Open-source projects benefit	Best for sensitive projects	
-Security		Code is exposed to the public	Code remains private
+Public Repositories
+
+Public Repository		
+Anyone can see and clone
+Open-source projects benefit
+Code is exposed to the public	
+
+Private Repositories
+Private Repository
+Only authorized users can access
+Best for sensitive projects	
+Code remains private
 
 Public repositories help in open-source contributions, while private ones protect sensitive information.
 
